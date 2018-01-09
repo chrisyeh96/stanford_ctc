@@ -1,0 +1,13 @@
+# theme: jekyll-theme-cayman
+title: Stanford Code the Change
+description: Building software for social good
+
+highlighter: rouge
+
+##### BUILD SETTINGS #####
+incremental: true
+
+# strip all unncessary whitespace and comments
+# http://jch.penibelst.de/
+compress_html:
+  blanklines: true
