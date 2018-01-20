@@ -5,7 +5,7 @@ description: Building software for social good
 highlighter: rouge
 
 ##### BUILD SETTINGS #####
-incremental: true
+# incremental: true
 
 # strip all unncessary whitespace and comments
 # http://jch.penibelst.de/
