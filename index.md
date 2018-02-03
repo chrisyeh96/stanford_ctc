@@ -14,7 +14,7 @@ Code the Change is a student group that partners with non-profits to work on yea
 
 Come to one of our weekly meetings and get on our mailing list!
 
-**Weekly meetings**: Fridays, 4-6pm, Haas DK Room
+**Weekly meetings**: Fridays, 4:30-6pm, Haas DK Room
 
 **Mailing List**: please subscribe to [codethechange_general](https://mailman.stanford.edu/mailman/listinfo/codethechange_general)
 
@@ -23,7 +23,7 @@ Come to one of our weekly meetings and get on our mailing list!
 
 See [https://goo.gl/3RKsRa](https://goo.gl/3RKsRa) for the full project descriptions. Short descriptions below:
 
-**Konexio (NEW)**: an Android app and a website to match professional mentors (volunteers) with refugees
+**Konexio**: an Android app and a website to match professional mentors (volunteers) with refugees
 - Team leads: Sophia Barton ([sophiapb@stanford.edu](sophiapb@stanford.edu)) and Taresh Sethi ([tksethi@stanford.edu](tksethi@stanford.edu))
 
 **CultureMesh**: an Android app and a Facebook Free Basics website for helping connect refugees around the world

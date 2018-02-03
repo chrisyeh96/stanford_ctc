@@ -5,7 +5,7 @@ Live websites at [https://chrisyeh96.github.io/stanford_ctc](https://chrisyeh96.
 **Build Locally**
 
 - GitHub Pages: `jekyll build --baseurl /stanford_ctc`
-- Stanford: `jekyll build --baseurl /`
+- Stanford: `jekyll build`
 
 **Run Locally**
 
