@@ -40,8 +40,7 @@ Co-Presidents
 - Natalie Baker ([nmbaker@stanford.edu](mailto:nmbaker@stanford.edu))
 
 Financial Officer
--Han Lin (“Savage”) Aung ([hanlaung@stanford.edu] (mailto:hanlaung@stanford.edu))
-
+- Han-Lin Aung ([hanlaung@stanford.edu](mailto:hanlaung@stanford.edu))
 
 ## National Organization
 
