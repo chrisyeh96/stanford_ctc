@@ -17,5 +17,4 @@ We need the `baseurl` parameter for GitHub Pages because the live website is not
 ## TODOs
 
 - not sure if we should include `baseurl` in `_config.yml`
-- maybe add link to Konexio application
 - not sure if Google Analytics is setup properly, or even necessary
