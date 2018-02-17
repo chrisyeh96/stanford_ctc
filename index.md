@@ -39,6 +39,9 @@ Co-Presidents
 - Christopher Yeh ([chrisyeh@stanford.edu](mailto:chrisyeh@stanford.edu))
 - Natalie Baker ([nmbaker@stanford.edu](mailto:nmbaker@stanford.edu))
 
+Financial Officer
+-Han Lin (“Savage”) Aung ([hanlaung@stanford.edu] (mailto:hanlaung@stanford.edu))
+
 
 ## National Organization
 
