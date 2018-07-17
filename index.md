@@ -36,8 +36,8 @@ See [https://goo.gl/3RKsRa](https://goo.gl/3RKsRa) for the full project descript
 ## Leadership
 
 Co-Presidents
-- Christopher Yeh ([chrisyeh@stanford.edu](mailto:chrisyeh@stanford.edu))
-- Natalie Baker ([nmbaker@stanford.edu](mailto:nmbaker@stanford.edu))
+- Drew Gregory ([drewgreg@stanford.edu](mailto:drewgreg@stanford.edu))
+- Yuguan Xing ([yuguanx@stanford.edu](mailto:yuguanx@stanford.edu))
 
 Financial Officer
 - Han-Lin Aung ([hanlaung@stanford.edu](mailto:hanlaung@stanford.edu))
