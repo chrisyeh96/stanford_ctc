@@ -1,6 +1,6 @@
 # Code the Change, Stanford Chapter
 
-Live websites at [https://chrisyeh96.github.io/stanford_ctc](https://chrisyeh96.github.io/stanford_ctc) and [https://codethechange.stanford.edu/](https://codethechange.stanford.edu/).
+Live websites at [https://yuguanx.github.io/stanford_ctc](https://yuguanx.github.io/stanford_ctc) and [https://codethechange.stanford.edu/](https://codethechange.stanford.edu/).
 
 **Build Locally**
 
